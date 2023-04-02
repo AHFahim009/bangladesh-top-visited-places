@@ -10,11 +10,12 @@ const City = () => {
   }, []);
   return (
     <div>
-      <div className="grid md:grid-cols-3 grid-rows-2 gap-y-12 gap-x-2 my-8 px-2">
+      <div className="grid md:grid-cols-3 grid-rows-2 gap-y-12 gap-x-2 my-8 md:px-2 relative">
         {city.map((cities) => (
           <Details cities={cities}></Details>
         ))}
       </div>
+      <div></div>
     </div>
   );
 };

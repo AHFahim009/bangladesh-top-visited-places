@@ -1,0 +1,12 @@
+[
+  { "name": "Dhaka", "population": 21.0 },
+  { "name": "Chittagong", "population": 6.5 },
+  { "name": "Sylhet", "population": 3.5 },
+  { "name": "Cox's Bazar", "population": 2.5 },
+  { "name": "Rajshahi", "population": 0.8 },
+  { "name": "Rangpur", "population": 0.65 },
+  { "name": "Jessore", "population": 0.48 },
+  { "name": "Comilla", "population": 0.41 },
+  { "name": "Narayanganj", "population": 0.39 },
+  { "name": "Barisal", "population": 0.34 }
+]

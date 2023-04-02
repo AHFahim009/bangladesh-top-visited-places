@@ -39,7 +39,7 @@ const Nav = () => {
 
         <ul
           className={`md:flex bg-blue-200 duration-300 absolute md:static pb-2 ${
-            open ? `top-10` : `-top-36`
+            open ? `top-20` : `-top-36`
           }`}
         >
           {linking.map((links) => (

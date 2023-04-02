@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Dhaka",
+    "population": 21.0,
+    "special_location": "Ahsan Manzil",
+    "description": "Ahsan Manzil is a historical palace located in the old part of Dhaka city. It was the residence of the Nawab of Dhaka and is now a museum. The palace is a fine example of Mughal architecture and houses various artifacts from the Mughal and British periods of Bangladesh."
+  },
+  {
+    "id": 2,
+    "name": "Chittagong",
+    "population": 6.5,
+    "special_location": "Patenga Beach",
+    "description": "Patenga Beach is a popular tourist spot in Chittagong known for its scenic beauty and sea-facing landscape. It is a great place to relax and enjoy the ocean view. There are many food and souvenir stalls along the beach, and visitors can also take a boat ride to explore nearby islands."
+  },
+  {
+    "id": 3,
+    "name": "Sylhet",
+    "population": 3.5,
+    "special_location": "Jaflong",
+    "description": "Jaflong is a natural tourist attraction located in Sylhet. It is famous for its beautiful landscape of rolling hills and rivers, and for its natural stone collection. Visitors can also enjoy boat rides and explore nearby tea gardens and waterfalls."
+  },
+  {
+    "id": 4,
+    "name": "Cox's Bazar",
+    "population": 2.5,
+    "special_location": "Himchori Waterfall",
+    "description": "Himchori Waterfall is a popular tourist destination in Cox's Bazar known for its picturesque beauty and scenic landscape. It is located in the nearby hills and can be reached by car or on foot. Visitors can take a dip in the refreshing waters and enjoy the tranquility of nature."
+  },
+  {
+    "id": 5,
+    "name": "Rangpur",
+    "population": 0.65,
+    "special_location": "Tajhat Palace",
+    "description": "Tajhat Palace is a historical palace located in Rangpur. It was the residence of a local king and is now a museum. The palace is known for its architectural beauty and houses various artifacts from the Hindu and Muslim periods of the region."
+  },
+  {
+    "id": 6,
+    "name": "Khulna",
+    "population": 1.5,
+    "special_location": "Sundarbans",
+    "description": "Sundarbans is a mangrove forest located in the delta region of the Ganges, Brahmaputra and Meghna rivers. It is a UNESCO World Heritage Site and is home to the Bengal tiger and various species of birds and reptiles. Visitors can take a boat ride and explore the natural beauty of the forest."
+  }
+]
